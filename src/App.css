@@ -1,0 +1,11 @@
+.App {
+  background: linear-gradient(to bottom right,rgb(219, 136, 136),rgb(224, 224, 31));
+  text-align: center;
+  height:100%;
+  width:100%;
+  position:fixed;
+  margin:auto;
+  overflow: scroll;
+}
+
+
