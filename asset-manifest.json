@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Psycovid/static/css/main.df800f6b.chunk.css",
+    "main.js": "/Psycovid/static/js/main.c0b312f1.chunk.js",
+    "main.js.map": "/Psycovid/static/js/main.c0b312f1.chunk.js.map",
+    "runtime-main.js": "/Psycovid/static/js/runtime-main.b38831f2.js",
+    "runtime-main.js.map": "/Psycovid/static/js/runtime-main.b38831f2.js.map",
+    "static/js/2.3054a554.chunk.js": "/Psycovid/static/js/2.3054a554.chunk.js",
+    "static/js/2.3054a554.chunk.js.map": "/Psycovid/static/js/2.3054a554.chunk.js.map",
+    "static/js/3.03452e8c.chunk.js": "/Psycovid/static/js/3.03452e8c.chunk.js",
+    "static/js/3.03452e8c.chunk.js.map": "/Psycovid/static/js/3.03452e8c.chunk.js.map",
+    "index.html": "/Psycovid/index.html",
+    "static/css/main.df800f6b.chunk.css.map": "/Psycovid/static/css/main.df800f6b.chunk.css.map",
+    "static/js/2.3054a554.chunk.js.LICENSE.txt": "/Psycovid/static/js/2.3054a554.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b38831f2.js",
+    "static/js/2.3054a554.chunk.js",
+    "static/css/main.df800f6b.chunk.css",
+    "static/js/main.c0b312f1.chunk.js"
+  ]
+}
